@@ -1,6 +1,8 @@
 ## ✨ LUMIAN
 
-![dark-blue-logo](https://github.com/TATA-V/fe-sprint-my-agora-states/assets/113578923/804849a0-1d9c-497d-a381-e12c14b04da4)
+<p align="center">
+  <img src="https://github.com/TATA-V/fe-sprint-my-agora-states/assets/113578923/804849a0-1d9c-497d-a381-e12c14b04da4" alt="dark-blue-logo">
+</p>
 
 - 팀 이름 : ⛴타이타닉
 - 팀 번호 : seb43_main_010
