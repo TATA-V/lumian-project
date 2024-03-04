@@ -12,8 +12,6 @@
 - 프로젝트 설명<br>
   해당 웹사이트는 위버스에서 영감을 받아 만들어졌습니다. Lumian은 아티스트와 팬 간의 경계를 허물고, 함께 소통할 수 있는 공간입니다. 소셜 네트워크와 같은 커뮤니티 기능을 통해 팬들은 아티스트와 쉽게 대화를 나눌 수 있으며, 아티스트 노래 추천 기능을 제공하고 있어서 팬들은 아티스트가 추천하는 곡을 들을 수 있습니다.
 - 배포 링크 : <a href ="http://lumian-project.s3-website.ap-northeast-2.amazonaws.com" target = "_blank" > LUMIAN </a>
-- 원본 레파지토리: <a href ="https://github.com/codestates-seb/seb43_main_010" target = "_blank" > LUMIAN 원본 레파지토리 </a>
-- 데모 데이용 ppt : [최현아-담당했던 역할.pdf](https://github.com/TATA-V/lumian-project/files/11631200/default.pdf)
 
 </br>
 
@@ -21,9 +19,10 @@
 
 |      [최현아](https://github.com/tata-v)            |  
 | :------------------------------------------: |          
-|      LUMIAN 피그마 디자인      |      
-|      header, footer, nav 등 공통 컴포넌트 제작       |      
-|     메인 페이지, 뮤직 페이지, 피드 페이지 기능 및 페이지 구현         |      
+|      header, footer, nav 등 공통 컴포넌트 제작      |      
+|      처음 웹 사이트에 들어오면 보이는 부분인 main 페이지 제작      |      
+|      아티스트가 팬들에게 플레이리스트를 공유할 수 있는 music 페이지 제작      |      
+|      팬만 게시글을 작성할 수 있는 feead 페이지 제작         |      
 
 </br>
 
